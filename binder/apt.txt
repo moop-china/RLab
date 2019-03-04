@@ -1,2 +1,8 @@
 apt-utils
 libudunits2-dev
+libssl-dev
+libsasl2-dev
+openjdk-8-jdk
+r-cran-rjava
+libgdal-dev
+libproj-dev

@@ -45,7 +45,7 @@ install.packages("plyr") # python support in RMarkdown
 install.packages("rJava") # python support in RMarkdown
 install.packages("reshape2") # python support in RMarkdown
 install.packages("rjson") # python support in RMarkdown
-install.packages("rmongodb") # python support in RMarkdown
+install.packages("mongolite") # python support in RMarkdown
 install.packages("rredis") # python support in RMarkdown
 install.packages("rstudioapi") # python support in RMarkdown
 install.packages("scales") # python support in RMarkdown
